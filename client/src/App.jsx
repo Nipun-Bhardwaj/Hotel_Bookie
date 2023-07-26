@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import "react-tooltip/dist/react-tooltip.css";
-import IndexPage from "./Pages/IndexPage";
+import IndexPage from "./pages/IndexPage";
 import LoginPage from "./pages/LoginPage";
 import Layout from "./Layout";
 import RegisterPage from "./pages/RegisterPage";
